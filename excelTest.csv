@@ -1,0 +1,396 @@
+Service,Service
+Backup & Recovery Operations,643
+Data Center Services,1391
+NAS Storage,507
+Object Storage Automation,286
+Physical Data Center Access,2440
+SAN Storage,182
+Server Decommissioning (Legacy),8
+Special Network Attached Storage (NAS)_V2,745
+Special Storage Area Network (SAN)_V2,306
+Tools Onboarding / Offboarding_V2,170
+VM Server Capacity Modification,858
+Service,Request-Type,Request-Type
+Backup & Recovery Operations,BUR Admin Assistance,221
+Backup & Recovery Operations,Migration/Decomm,5
+Backup & Recovery Operations,New Backup Configuration,366
+Backup & Recovery Operations,Permanently Stop Backups/Decommissions,3
+Backup & Recovery Operations,Restore Request,48
+Data Center Services,Cable Engineering,191
+Data Center Services,Cable Engineering - China,16
+Data Center Services,Cable Engineering - Singapore,2
+Data Center Services,Configuration for Server IPs/iDRAC - China,1
+Data Center Services,Configuration for Server IPs/iDRAC - Singapore,2
+Data Center Services,Configuration for server IP,94
+Data Center Services,Decommission,20
+Data Center Services,Equipment tile location China Request,4
+Data Center Services,Equipment tile location Europe - Ireland Request,2
+Data Center Services,Equipment tile location GMIO - Israel Request,4
+Data Center Services,Equipment tile location South Korea Request,2
+Data Center Services,Install Network Cables - China,15
+Data Center Services,Install Network Cables - Ireland,2
+Data Center Services,Install Network Cables - Singapore,2
+Data Center Services,Install Network/Storage Cables,354
+Data Center Services,Milford Equipment tile Location,109
+Data Center Services,Rack and Stack Equipment,208
+Data Center Services,Rack and Stack Equipment Europe - Ireland Request,2
+Data Center Services,Rack and Stack Equipment Singapore Request,2
+Data Center Services,Relabel Cables for Redesign,16
+Data Center Services,Troubleshooting Active Projects,183
+Data Center Services,Troubleshooting Active Projects - Singapore,2
+Data Center Services,Warren Equipment tile Location,158
+NAS Storage,Delete,14
+NAS Storage,Modify,247
+NAS Storage,New,246
+Special Network Attached Storage (NAS)_V2,Access Control,130
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,75
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,55
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,67
+Special Network Attached Storage (NAS)_V2,Project - Install,1
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,378
+Special Network Attached Storage (NAS)_V2,Replication/Sync,36
+Special Network Attached Storage (NAS)_V2,Snapshots,3
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,27
+Special Storage Area Network (SAN)_V2,P2P,1
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,39
+Special Storage Area Network (SAN)_V2,Project - Install,3
+Special Storage Area Network (SAN)_V2,Project - Migration,9
+Special Storage Area Network (SAN)_V2,Project - Prep Decom/Wipe,1
+Special Storage Area Network (SAN)_V2,Project - Validate NO I/O Connectivity,1
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,219
+Special Storage Area Network (SAN)_V2,Replication,6
+Service,Request-Type,month,month
+Backup & Recovery Operations,BUR Admin Assistance,January,16
+Backup & Recovery Operations,BUR Admin Assistance,February,21
+Backup & Recovery Operations,BUR Admin Assistance,March,26
+Backup & Recovery Operations,BUR Admin Assistance,April,28
+Backup & Recovery Operations,BUR Admin Assistance,May,36
+Backup & Recovery Operations,BUR Admin Assistance,June,32
+Backup & Recovery Operations,BUR Admin Assistance,July,35
+Backup & Recovery Operations,BUR Admin Assistance,August,27
+Backup & Recovery Operations,Migration/Decomm,January,1
+Backup & Recovery Operations,Migration/Decomm,March,2
+Backup & Recovery Operations,Migration/Decomm,July,1
+Backup & Recovery Operations,Migration/Decomm,August,1
+Backup & Recovery Operations,New Backup Configuration,January,39
+Backup & Recovery Operations,New Backup Configuration,February,77
+Backup & Recovery Operations,New Backup Configuration,March,43
+Backup & Recovery Operations,New Backup Configuration,April,52
+Backup & Recovery Operations,New Backup Configuration,May,46
+Backup & Recovery Operations,New Backup Configuration,June,41
+Backup & Recovery Operations,New Backup Configuration,July,36
+Backup & Recovery Operations,New Backup Configuration,August,32
+Backup & Recovery Operations,Permanently Stop Backups/Decommissions,February,1
+Backup & Recovery Operations,Permanently Stop Backups/Decommissions,April,1
+Backup & Recovery Operations,Permanently Stop Backups/Decommissions,May,1
+Backup & Recovery Operations,Restore Request,January,8
+Backup & Recovery Operations,Restore Request,February,1
+Backup & Recovery Operations,Restore Request,March,4
+Backup & Recovery Operations,Restore Request,April,6
+Backup & Recovery Operations,Restore Request,May,9
+Backup & Recovery Operations,Restore Request,June,9
+Backup & Recovery Operations,Restore Request,July,5
+Backup & Recovery Operations,Restore Request,August,6
+Data Center Services,Cable Engineering,January,14
+Data Center Services,Cable Engineering,February,28
+Data Center Services,Cable Engineering,March,31
+Data Center Services,Cable Engineering,April,23
+Data Center Services,Cable Engineering,May,20
+Data Center Services,Cable Engineering,June,24
+Data Center Services,Cable Engineering,July,32
+Data Center Services,Cable Engineering,August,19
+Data Center Services,Cable Engineering - China,January,3
+Data Center Services,Cable Engineering - China,February,3
+Data Center Services,Cable Engineering - China,March,5
+Data Center Services,Cable Engineering - China,May,2
+Data Center Services,Cable Engineering - China,June,1
+Data Center Services,Cable Engineering - China,July,2
+Data Center Services,Cable Engineering - Singapore,February,1
+Data Center Services,Cable Engineering - Singapore,March,1
+Data Center Services,Configuration for Server IPs/iDRAC - China,January,1
+Data Center Services,Configuration for Server IPs/iDRAC - Singapore,March,1
+Data Center Services,Configuration for Server IPs/iDRAC - Singapore,April,1
+Data Center Services,Configuration for server IP,January,7
+Data Center Services,Configuration for server IP,February,10
+Data Center Services,Configuration for server IP,March,6
+Data Center Services,Configuration for server IP,April,10
+Data Center Services,Configuration for server IP,May,12
+Data Center Services,Configuration for server IP,June,5
+Data Center Services,Configuration for server IP,July,21
+Data Center Services,Configuration for server IP,August,23
+Data Center Services,Decommission,January,2
+Data Center Services,Decommission,February,2
+Data Center Services,Decommission,March,8
+Data Center Services,Decommission,April,2
+Data Center Services,Decommission,May,1
+Data Center Services,Decommission,June,3
+Data Center Services,Decommission,July,1
+Data Center Services,Decommission,August,1
+Data Center Services,Equipment tile location China Request,January,1
+Data Center Services,Equipment tile location China Request,March,2
+Data Center Services,Equipment tile location China Request,June,1
+Data Center Services,Equipment tile location Europe - Ireland Request,February,2
+Data Center Services,Equipment tile location GMIO - Israel Request,January,2
+Data Center Services,Equipment tile location GMIO - Israel Request,August,2
+Data Center Services,Equipment tile location South Korea Request,July,2
+Data Center Services,Install Network Cables - China,January,6
+Data Center Services,Install Network Cables - China,February,1
+Data Center Services,Install Network Cables - China,June,8
+Data Center Services,Install Network Cables - Ireland,March,1
+Data Center Services,Install Network Cables - Ireland,June,1
+Data Center Services,Install Network Cables - Singapore,March,2
+Data Center Services,Install Network/Storage Cables,January,25
+Data Center Services,Install Network/Storage Cables,February,35
+Data Center Services,Install Network/Storage Cables,March,56
+Data Center Services,Install Network/Storage Cables,April,38
+Data Center Services,Install Network/Storage Cables,May,60
+Data Center Services,Install Network/Storage Cables,June,47
+Data Center Services,Install Network/Storage Cables,July,37
+Data Center Services,Install Network/Storage Cables,August,56
+Data Center Services,Milford Equipment tile Location,January,6
+Data Center Services,Milford Equipment tile Location,February,25
+Data Center Services,Milford Equipment tile Location,March,9
+Data Center Services,Milford Equipment tile Location,April,12
+Data Center Services,Milford Equipment tile Location,May,9
+Data Center Services,Milford Equipment tile Location,June,22
+Data Center Services,Milford Equipment tile Location,July,13
+Data Center Services,Milford Equipment tile Location,August,13
+Data Center Services,Rack and Stack Equipment,January,16
+Data Center Services,Rack and Stack Equipment,February,24
+Data Center Services,Rack and Stack Equipment,March,38
+Data Center Services,Rack and Stack Equipment,April,22
+Data Center Services,Rack and Stack Equipment,May,21
+Data Center Services,Rack and Stack Equipment,June,31
+Data Center Services,Rack and Stack Equipment,July,27
+Data Center Services,Rack and Stack Equipment,August,29
+Data Center Services,Rack and Stack Equipment Europe - Ireland Request,March,2
+Data Center Services,Rack and Stack Equipment Singapore Request,February,1
+Data Center Services,Rack and Stack Equipment Singapore Request,March,1
+Data Center Services,Relabel Cables for Redesign,January,1
+Data Center Services,Relabel Cables for Redesign,February,4
+Data Center Services,Relabel Cables for Redesign,March,1
+Data Center Services,Relabel Cables for Redesign,April,1
+Data Center Services,Relabel Cables for Redesign,May,2
+Data Center Services,Relabel Cables for Redesign,June,2
+Data Center Services,Relabel Cables for Redesign,August,5
+Data Center Services,Troubleshooting Active Projects,January,20
+Data Center Services,Troubleshooting Active Projects,February,25
+Data Center Services,Troubleshooting Active Projects,March,33
+Data Center Services,Troubleshooting Active Projects,April,20
+Data Center Services,Troubleshooting Active Projects,May,15
+Data Center Services,Troubleshooting Active Projects,June,21
+Data Center Services,Troubleshooting Active Projects,July,19
+Data Center Services,Troubleshooting Active Projects,August,30
+Data Center Services,Troubleshooting Active Projects - Singapore,February,1
+Data Center Services,Troubleshooting Active Projects - Singapore,May,1
+Data Center Services,Warren Equipment tile Location,January,7
+Data Center Services,Warren Equipment tile Location,February,30
+Data Center Services,Warren Equipment tile Location,March,13
+Data Center Services,Warren Equipment tile Location,April,13
+Data Center Services,Warren Equipment tile Location,May,20
+Data Center Services,Warren Equipment tile Location,June,34
+Data Center Services,Warren Equipment tile Location,July,25
+Data Center Services,Warren Equipment tile Location,August,16
+NAS Storage,Delete,February,1
+NAS Storage,Delete,March,2
+NAS Storage,Delete,April,1
+NAS Storage,Delete,May,1
+NAS Storage,Delete,July,5
+NAS Storage,Delete,August,4
+NAS Storage,Modify,January,24
+NAS Storage,Modify,February,22
+NAS Storage,Modify,March,32
+NAS Storage,Modify,April,14
+NAS Storage,Modify,May,48
+NAS Storage,Modify,June,22
+NAS Storage,Modify,July,32
+NAS Storage,Modify,August,53
+NAS Storage,New,January,30
+NAS Storage,New,February,36
+NAS Storage,New,March,27
+NAS Storage,New,April,29
+NAS Storage,New,May,35
+NAS Storage,New,June,28
+NAS Storage,New,July,32
+NAS Storage,New,August,29
+Special Network Attached Storage (NAS)_V2,Access Control,January,13
+Special Network Attached Storage (NAS)_V2,Access Control,February,6
+Special Network Attached Storage (NAS)_V2,Access Control,March,14
+Special Network Attached Storage (NAS)_V2,Access Control,April,25
+Special Network Attached Storage (NAS)_V2,Access Control,May,14
+Special Network Attached Storage (NAS)_V2,Access Control,June,29
+Special Network Attached Storage (NAS)_V2,Access Control,July,10
+Special Network Attached Storage (NAS)_V2,Access Control,August,19
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,January,7
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,February,13
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,March,13
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,April,9
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,May,6
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,June,8
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,July,4
+Special Network Attached Storage (NAS)_V2,Decommission/Reclaim,August,15
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,January,4
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,February,8
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,March,4
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,April,16
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,May,5
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,June,4
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,July,8
+Special Network Attached Storage (NAS)_V2,ESS Storage Request,August,6
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,January,6
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,February,8
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,March,3
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,April,3
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,May,12
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,June,13
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,July,4
+Special Network Attached Storage (NAS)_V2,Miscellaneous/Request for Information,August,18
+Special Network Attached Storage (NAS)_V2,Project - Install,August,1
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,January,37
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,February,47
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,March,78
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,April,42
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,May,52
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,June,45
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,July,36
+Special Network Attached Storage (NAS)_V2,Provisioning/Storage Allocation,August,41
+Special Network Attached Storage (NAS)_V2,Replication/Sync,January,2
+Special Network Attached Storage (NAS)_V2,Replication/Sync,February,3
+Special Network Attached Storage (NAS)_V2,Replication/Sync,March,9
+Special Network Attached Storage (NAS)_V2,Replication/Sync,April,3
+Special Network Attached Storage (NAS)_V2,Replication/Sync,May,5
+Special Network Attached Storage (NAS)_V2,Replication/Sync,June,4
+Special Network Attached Storage (NAS)_V2,Replication/Sync,July,5
+Special Network Attached Storage (NAS)_V2,Replication/Sync,August,5
+Special Network Attached Storage (NAS)_V2,Snapshots,February,1
+Special Network Attached Storage (NAS)_V2,Snapshots,July,1
+Special Network Attached Storage (NAS)_V2,Snapshots,August,1
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,January,2
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,February,7
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,March,4
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,April,1
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,May,2
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,June,5
+Special Storage Area Network (SAN)_V2,Decommission/Reclaim,August,6
+Special Storage Area Network (SAN)_V2,P2P,July,1
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,January,4
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,February,17
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,March,4
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,May,2
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,June,6
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,July,4
+Special Storage Area Network (SAN)_V2,Port Activation and Deactivation,August,2
+Special Storage Area Network (SAN)_V2,Project - Install,April,1
+Special Storage Area Network (SAN)_V2,Project - Install,June,1
+Special Storage Area Network (SAN)_V2,Project - Install,July,1
+Special Storage Area Network (SAN)_V2,Project - Migration,February,1
+Special Storage Area Network (SAN)_V2,Project - Migration,June,8
+Special Storage Area Network (SAN)_V2,Project - Prep Decom/Wipe,February,1
+Special Storage Area Network (SAN)_V2,Project - Validate NO I/O Connectivity,January,1
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,January,24
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,February,11
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,March,32
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,April,33
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,May,16
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,June,22
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,July,23
+Special Storage Area Network (SAN)_V2,Provisioning/Storage Allocation,August,58
+Special Storage Area Network (SAN)_V2,Replication,January,1
+Special Storage Area Network (SAN)_V2,Replication,March,1
+Special Storage Area Network (SAN)_V2,Replication,May,3
+Special Storage Area Network (SAN)_V2,Replication,June,1
+Service,month,month
+Backup & Recovery Operations,January,64
+Backup & Recovery Operations,February,100
+Backup & Recovery Operations,March,75
+Backup & Recovery Operations,April,87
+Backup & Recovery Operations,May,92
+Backup & Recovery Operations,June,82
+Backup & Recovery Operations,July,77
+Backup & Recovery Operations,August,66
+Data Center Services,January,111
+Data Center Services,February,192
+Data Center Services,March,210
+Data Center Services,April,142
+Data Center Services,May,163
+Data Center Services,June,200
+Data Center Services,July,179
+Data Center Services,August,194
+NAS Storage,February,59
+NAS Storage,March,61
+NAS Storage,April,44
+NAS Storage,May,84
+NAS Storage,July,69
+NAS Storage,August,86
+NAS Storage,January,54
+NAS Storage,June,50
+Object Storage Automation,January,50
+Object Storage Automation,February,36
+Object Storage Automation,March,57
+Object Storage Automation,April,46
+Object Storage Automation,May,28
+Object Storage Automation,June,23
+Object Storage Automation,July,19
+Object Storage Automation,August,27
+Physical Data Center Access,January,256
+Physical Data Center Access,February,289
+Physical Data Center Access,March,407
+Physical Data Center Access,April,270
+Physical Data Center Access,May,334
+Physical Data Center Access,June,303
+Physical Data Center Access,July,287
+Physical Data Center Access,August,294
+SAN Storage,January,18
+SAN Storage,February,30
+SAN Storage,March,34
+SAN Storage,April,12
+SAN Storage,May,14
+SAN Storage,June,19
+SAN Storage,July,28
+SAN Storage,August,27
+Server Decommissioning (Legacy),January,5
+Server Decommissioning (Legacy),February,1
+Server Decommissioning (Legacy),March,2
+Special Network Attached Storage (NAS)_V2,January,69
+Special Network Attached Storage (NAS)_V2,February,86
+Special Network Attached Storage (NAS)_V2,March,121
+Special Network Attached Storage (NAS)_V2,April,98
+Special Network Attached Storage (NAS)_V2,May,94
+Special Network Attached Storage (NAS)_V2,June,103
+Special Network Attached Storage (NAS)_V2,July,68
+Special Network Attached Storage (NAS)_V2,August,106
+Special Storage Area Network (SAN)_V2,January,32
+Special Storage Area Network (SAN)_V2,February,37
+Special Storage Area Network (SAN)_V2,March,41
+Special Storage Area Network (SAN)_V2,April,35
+Special Storage Area Network (SAN)_V2,May,23
+Special Storage Area Network (SAN)_V2,June,43
+Special Storage Area Network (SAN)_V2,August,66
+Special Storage Area Network (SAN)_V2,July,29
+Tools Onboarding / Offboarding_V2,January,15
+Tools Onboarding / Offboarding_V2,February,25
+Tools Onboarding / Offboarding_V2,March,21
+Tools Onboarding / Offboarding_V2,April,54
+Tools Onboarding / Offboarding_V2,May,16
+Tools Onboarding / Offboarding_V2,June,12
+Tools Onboarding / Offboarding_V2,July,14
+Tools Onboarding / Offboarding_V2,August,13
+VM Server Capacity Modification,January,75
+VM Server Capacity Modification,February,129
+VM Server Capacity Modification,March,128
+VM Server Capacity Modification,April,112
+VM Server Capacity Modification,May,119
+VM Server Capacity Modification,June,77
+VM Server Capacity Modification,July,88
+VM Server Capacity Modification,August,130
+month,month
+January,749
+February,984
+March,1157
+April,900
+May,967
+June,912
+July,858
+August,1009
+,a
+0,7536
